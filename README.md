@@ -1,13 +1,8 @@
-# 📺 Anushilon-Virtual-Science-Lab
+# 📺 Virtual Science
 
-ANUSIHLON is based on the idea that lab experiments can be taught using the internet, more efficiently and less expensively. The online lab is made for students with no access to physical labs or where equipment is not available owing to being rare or costly.
-
----
-
-## 🚀 Important Links
+VS is based on the idea that lab experiments can be taught using the internet, more efficiently and less expensively. The online lab is made for students with no access to physical labs or where equipment is not available owing to being rare or costly.
 
 ---
-
 ## 💡 Motivation
 
 Virtual labs are easy to set up, use and maintain, with notable reductions in cost and time. Experiments can also be repeated multiple times. This virtual lab has to be adopted in schools and colleges to make their students think out of the box.
